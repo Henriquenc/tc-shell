@@ -3,4 +3,7 @@
 2- Exibe um arquivo<br>
 3- Exibe 2 arquivos<br>
 4- Ultimas linhas de um arquivo<br>
-5- Primeiras linhas de um arquivo
+5- Primeiras linhas de um arquivo<br>
+6- Imprime a terceira linha de um arquivo
+
+
